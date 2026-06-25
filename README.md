@@ -29,14 +29,13 @@ A deep learning-based Traffic Sign Recognition (TSR) system that accurately clas
 * Torchvision
 
 ---
-
 ## 📂 Dataset
 
-This project uses the **LISA Traffic Sign Dataset**.
+The dataset used for this project is available on Kaggle.
 
-Dataset Link:
-[https://cvrr.ucsd.edu/LISA/lisa-traffic-sign-dataset.html](https://cvrr.ucsd.edu/LISA/lisa-traffic-sign-dataset.html)
+🔗 **Kaggle Dataset:** https://www.kaggle.com/datasets/abhinaya4678/traffic-sign
 
+The dataset contains labeled traffic sign images used for training and testing the deep learning models.
 ---
 
 ## 🧠 Models Used
